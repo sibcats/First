@@ -1,1 +1,1 @@
-My first learning project
+first learning project
